@@ -1,0 +1,8 @@
+./test.sh
+./backup/cpu.sh
+./backup/dump1090.sh
+./home_file_sender.sh
+./inoty.sh
+./file_sender.sh
+./cpu.sh
+./dump1090.sh
